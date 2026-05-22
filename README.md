@@ -136,4 +136,4 @@ Note: Issues without logs may not be effectively addressed.
 
 ## Star 历程 / Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your_github_username/HyperLight&type=Date)](https://star-history.com/#your_github_username/HyperLight&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=HyperLight&type=Date)](https://star-history.com/#HyperLight&Date)
