@@ -5,10 +5,10 @@
 <h1 align="center">HyperLight</h1>
 
 <p align="center">
-  An Xposed module that brings highlight blur (liquid glass) visual effects to Xiaomi HyperOS 3.<br>
+  An Xposed module that brings highlight blur visual effects to Xiaomi HyperOS 3.<br>
   Covers system launcher, notification shade, control center and other system components by<br>
-  invoking the internal MaterialToken API via reflection, injecting full highlight blur support<br>
-  on devices or scenarios that lack it, with fine-grained customization options.
+  invoking the internal MaterialToken API via reflection, injecting full OS3 highlight material<br>
+  style on devices or scenarios that lack it, with material color blend and stroke customization.
 </p>
 
 <p align="center">
