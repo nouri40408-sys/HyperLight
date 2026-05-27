@@ -115,7 +115,6 @@
 ## 致谢
 
 - [MiuiX](https://github.com/miuix-kotlin-multiplatform/miuix) - UI 组件库
-- [EzXHelper](https://github.com/kyuubiran/EzXHelper) - Xposed 工具库
 
 ## Star History
 
