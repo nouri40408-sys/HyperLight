@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+  <a href="./README_EN.md">English</a> · <a href="https://github.com/KiminonawaResa/HyperLight">项目主页</a>
+</p>
+
+<p align="center">
   <a href="https://github.com/KiminonawaResa/HyperLight/releases"><img src="https://img.shields.io/github/v/release/KiminonawaResa/HyperLight?display_name=tag" alt="GitHub release"></a>
   <a href="https://github.com/KiminonawaResa/HyperLight/stargazers"><img src="https://img.shields.io/github/stars/KiminonawaResa/HyperLight" alt="GitHub stars"></a>
   <a href="https://github.com/KiminonawaResa/HyperLight/issues"><img src="https://img.shields.io/github/issues/KiminonawaResa/HyperLight" alt="GitHub issues"></a>
@@ -87,14 +91,6 @@
 5. 重启设备或重启相关应用
 6. 打开 HyperLight 进行配置
 
-## 构建
-
-```bash
-git clone https://github.com/KiminonawaResa/HyperLight.git
-cd HyperLight
-./gradlew assembleRelease
-```
-
 ## 问题反馈
 
 在 Issues 中提交反馈，请附带：
@@ -122,101 +118,5 @@ cd HyperLight
 - [EzXHelper](https://github.com/kyuubiran/EzXHelper) - Xposed 工具库
 
 ## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=KiminonawaResa/HyperLight&type=Date)](https://star-history.com/#KiminonawaResa/HyperLight&Date)
-
-1. Xposed 框架日志（LSPosed: 设置 → 日志 → 详细日志）
-2. 详细问题描述：
-   - 设备型号
-   - 系统版本
-   - 复现步骤
-   - 预期行为和实际行为
-   - 相关截图
-
-注意：不包含日志的 Issue 可能无法得到有效处理。
-
-### 技术栈
-
-- Xposed Framework
-- Kotlin + Java
-- Jetpack Compose
-- MiuiX UI Components
-
-### 致谢
-
-- MiuiX - UI 组件库
-
-### 开发者
-
-愛君の名は
-
----
-
-## English
-
-### Introduction
-
-HyperLight is an Xposed module that completes the highlight blur effects for HyperOS 3, bringing a unified visual experience to the desktop, notification shade, and control center.
-
-### Features
-
-**System Launcher (com.miui.home)**
-- Folder highlight blur effect
-
-**System UI (com.android.systemui)**
-- Notification shade highlight blur effect
-
-**Control Center (miui.systemui.plugin)**
-- Control center highlight blur effect
-- Shadow effect support
-- Icon color customization (Light/Dark/Follow System)
-
-### Compatibility
-
-- Target Android: Android 16
-- Supported System: HyperOS 3.x
-- Xposed Framework: LSPosed / Xposed
-
-### Installation
-
-1. Install Xposed framework (LSPosed recommended)
-2. Download and install HyperLight module
-3. Enable the module in Xposed Manager
-4. Select scopes: `com.miui.home` and `com.android.systemui`
-5. Restart System Launcher and System UI
-6. Open HyperLight app for customization
-
-### Bug Reports
-
-Please submit feedback in Issues with the following information required:
-
-1. Xposed Framework Logs (LSPosed: Settings → Logs → Verbose logs)
-2. Detailed problem description:
-   - Device model
-   - System version
-   - Steps to reproduce
-   - Expected vs actual behavior
-   - Related screenshots
-
-Note: Issues without logs may not be effectively addressed.
-
-### Tech Stack
-
-- Xposed Framework
-- Kotlin + Java
-- Jetpack Compose
-- MiuiX UI Components
-
-### Acknowledgments
-
-- MiuiX - UI Component Library
-
-### Developer
-
-愛君の名は
-
----
-
-## Star 历程 / Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=KiminonawaResa/HyperLight&type=Date)](https://star-history.com/#KiminonawaResa/HyperLight&Date)
