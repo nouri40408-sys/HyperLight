@@ -120,5 +120,6 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=KiminonawaResa/HyperLight&type=Date)](https://star-history.com/#KiminonawaResa/HyperLight&Date)
 
-### 交流与讨论
+## 交流与讨论
+
 Telegram 群组：[https://t.me/+S1ljPdehxBJlMjg1](https://t.me/+S1ljPdehxBJlMjg1)
