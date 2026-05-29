@@ -122,4 +122,4 @@
 
 ## 交流与讨论
 
-Telegram 群组：[https://t.me/+S1ljPdehxBJlMjg1](https://t.me/+S1ljPdehxBJlMjg1)
+Telegram 群组：[HyperLight](https://t.me/+S1ljPdehxBJlMjg1)
